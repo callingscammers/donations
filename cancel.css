@@ -1,5 +1,6 @@
 .divheader {
   background-color: #ff4040;
+  text-align: center;
 }
 
 
@@ -10,6 +11,7 @@
 
 .divmenulinks {
   background-color: #00e5ff;
+  text-align: center;
 }
 
 
@@ -23,6 +25,7 @@
 
 .divcopyright {
   background-color: #11fc00;
+  text-align: center;
 }
 
 
