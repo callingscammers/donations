@@ -1,5 +1,5 @@
 .divheader {
-  background-color: red;
+  background-color: #ff4040;
 }
 
 
@@ -8,8 +8,8 @@
 
 
 
-.divmenulist {
-  background-color: lightblue;
+.divmenulinks {
+  background-color: #00e5ff;
 }
 
 
@@ -22,7 +22,7 @@
 
 
 .divcopyright {
-  background-color: lightgreen;
+  background-color: #11fc00;
 }
 
 
